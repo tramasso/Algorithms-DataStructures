@@ -2,7 +2,6 @@
 //************************************************************************
 // Ordenação - QuickSort
 // Autor: Lucas de Morais Tramasso
-// Matricula: 86859
 // Data: 26/03/2015
 // Curso : BCT
 // Prof: Jurandy
